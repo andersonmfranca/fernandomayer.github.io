@@ -1,0 +1,16 @@
+---
+title: "Fernando Mayer"
+output:
+  html_document:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+source("setup_knitr.R")
+```
+
+[![Build Status](https://travis-ci.org/fernandomayer/fernandomayer.github.io.svg)](https://travis-ci.org/fernandomayer/fernandomayer.github.io)
+
+# Apresentação
+
+Um texto apresentável aqui.
