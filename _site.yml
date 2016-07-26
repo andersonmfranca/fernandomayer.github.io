@@ -20,6 +20,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Ensino"
+      href: ensino.html
     - text: "Research"
       href: research.html
     - text: "Publications"
