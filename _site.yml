@@ -20,8 +20,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Pesquisa"
-      href: pesquisa.html
+    - text: "Research"
+      href: research.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"
+      href: software.html
   right:
     - text: GitHub
       icon: fa-github fa-lg
